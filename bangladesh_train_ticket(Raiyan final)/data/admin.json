@@ -1,0 +1,11 @@
+[
+    {
+    "UserName": "admin",
+    "Age": "20",
+    "Designation": "Junior Programmer",
+    "Preferred Languages": "JAVA PHP ",
+    "E-Mail": "admin@ gmail.com",
+    "admincode": "111",
+    "Password": "adminpass"
+    }
+]
